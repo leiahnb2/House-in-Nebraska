@@ -1,5 +1,1633 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whistling and instrumental of song"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transciption"
+        },
+        {
+          "category": "Category",
+          "tag": "Instrumental"
+        },
+        {
+          "category": "Tone",
+          "tag": "Melancholy"
+        }
+      ],
+      "uuid": "5a949b7e-5035-4326-b1d2-fb6acd6d73a3"
+    },
+    {
+      "start_time": 1,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden slowly gets up from laying down and looks around the church"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "5796898c-36a1-468f-8b07-84f76370a995"
+    },
+    {
+      "start_time": 22,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panning of the ceiling of the church"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "e52b24bd-4752-47a3-ab31-014f87a2ddd4"
+    },
+    {
+      "start_time": 30,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close up of Hayden staring at the camera"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "45190273-ecc5-4ac5-b741-12098e665dcc"
+    },
+    {
+      "start_time": 34,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden makes eye contact with something above and looks away"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        },
+        {
+          "category": "Tone",
+          "tag": "Fear"
+        }
+      ],
+      "uuid": "09700368-8841-485b-a80c-48dc271b32a2"
+    },
+    {
+      "start_time": 38,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Church window"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "a2501313-c9d3-49c1-8180-69d5e6a19e75"
+    },
+    {
+      "start_time": 45,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panning of church benches"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "38948096-974c-4df1-8b71-3cc8d62a00d3"
+    },
+    {
+      "start_time": 52,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden stands in the middle of the church with a microphone in front of a cross"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "353c505e-3e3e-4b19-ab44-78728874edcc"
+    },
+    {
+      "start_time": 60,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Labored breaths and bed sores, sing it to me all day long"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "0ad3745f-eca6-4a9a-90c3-5fb31c7e8306"
+    },
+    {
+      "start_time": 75,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the aching sound of silence used to be our favorite song"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "8679dccc-6bfe-4075-b00a-e801e3ba7302"
+    },
+    {
+      "start_time": 88,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You and me against the world, you were my man and I your girl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "8c677e62-a995-4039-b1d8-247bff532efb"
+    },
+    {
+      "start_time": 96,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had nothing except each other, you were my whole world"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Desperation"
+        }
+      ],
+      "uuid": "f67ceeca-6ab1-47f2-96fa-dc4c4576ef34"
+    },
+    {
+      "start_time": 104,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera pans around Hayden in a circle"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "db561513-e5c9-49f9-a854-cdbc24f54a42"
+    },
+    {
+      "start_time": 105,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then the day came and you were up and gone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "62aebe86-a268-493a-86c7-66360adc8dbe"
+    },
+    {
+      "start_time": 115,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden stands in the middle of the church"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "417fb3ce-f354-4a66-acd5-7efaf9c01340"
+    },
+    {
+      "start_time": 118,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I still call home that house in Nebraska"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Nostalgic"
+        }
+      ],
+      "uuid": "838a8d0c-503e-47d5-85fa-a2619952167a"
+    },
+    {
+      "start_time": 132,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where we found each other on a dirty mattress on the second floor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "fb26dd73-50d1-4c7d-9d44-47b957b1a90e"
+    },
+    {
+      "start_time": 147,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where the world was empty, save you and I"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "8832a2a5-f9ea-4a70-8aa5-13c92a010771"
+    },
+    {
+      "start_time": 155,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where you came and I laughed, and you left and I cried"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "359f2817-c5c0-40aa-933a-d1f40bb77140"
+    },
+    {
+      "start_time": 163,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where you told me even if we died tonight, that I'd die yours"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Limerence"
+        }
+      ],
+      "uuid": "53981c44-76a4-4846-84d0-5d4b8c158f81"
+    },
+    {
+      "start_time": 175,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden sits at the edge of the stage"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "e4ace2c7-81c6-44f0-bb6d-6c42e877e61e"
+    },
+    {
+      "start_time": 178,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden sits on a church bench and leans forward"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "0bd37c67-bd4c-4cd6-bb3b-5a3fe0b70a85"
+    },
+    {
+      "start_time": 205,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden sits at the edge of the stage"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "f825483f-25ed-4e95-aa76-24fbfa30a800"
+    },
+    {
+      "start_time": 207,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These dirt roads are empty, the ones we paved ourselves"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "0dbf5074-9399-4597-a301-34d93fe3715b"
+    },
+    {
+      "start_time": 221,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your mama calls me sometimes to see if I'm doing well"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "ab4d70a9-07f2-4c89-ab6c-0cbff9c83d79"
+    },
+    {
+      "start_time": 235,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden stands up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "1340ec3e-961d-41da-b03f-9d43b281907d"
+    },
+    {
+      "start_time": 235,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'd lie to her and say that I'm doing fine"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "0a79e880-9b98-4a08-8a7c-13eba0d49695"
+    },
+    {
+      "start_time": 243,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When, really, I'd kill myself to hold you one more time"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "7e26f487-7a57-4aa6-b1e7-bca46cfe15d7"
+    },
+    {
+      "start_time": 251,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden slowly starts walking backwards towards the cross"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "cb6ac427-a556-4c14-a9fc-f3f027b3afa6"
+    },
+    {
+      "start_time": 251,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it hurts to miss you, but it's worse to know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "6dd3eabe-ff4a-453b-bdc1-40c234156e79"
+    },
+    {
+      "start_time": 258,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That I'm the reason you won't come home"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Guilt"
+        }
+      ],
+      "uuid": "701ada47-e5da-48bf-88cb-3f67b75bd9c3"
+    },
+    {
+      "start_time": 265,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I still call home that house in Nebraska"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "d1f459f4-511e-4cd3-8f47-d78c81aaf067"
+    },
+    {
+      "start_time": 280,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where we found each other on a dirty mattress on the second floor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "6101a594-7e25-4b38-94fc-9bb0e004728b"
+    },
+    {
+      "start_time": 295,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where the world was empty, save you and I"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "60e1c1a7-902f-443c-8ddf-64788039f74f"
+    },
+    {
+      "start_time": 302,
+      "end_time": 309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where you came and I laughed, and you left and I cried"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "2aa11d82-3ff2-4a15-b52e-c5d84a3997d4"
+    },
+    {
+      "start_time": 310,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where you told me even if we died tonight, that I'd die yours"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "2ac3a98a-d319-4aa6-a19f-66180c8868f7"
+    },
+    {
+      "start_time": 322,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden sings upwards and her body aligns with the cross"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "9150b7de-7b68-4b03-b2c1-565eabe8433b"
+    },
+    {
+      "start_time": 325,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I still wait at the edge of town"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Desperation"
+        }
+      ],
+      "uuid": "e51c5158-c891-46cd-a4dc-8dfe6fb3820b"
+    },
+    {
+      "start_time": 331,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Praying straight to God that maybe you'll come back around"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "c6a5cd90-c494-4f58-99c4-7468e4f78aa9"
+    },
+    {
+      "start_time": 332,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden sings in front of the Scales of Justice "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "ac9bfc5f-e13d-49cf-8d49-e08bb0825bf2"
+    },
+    {
+      "start_time": 339,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I cry every day and the bottles make it worse"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Self-destructive"
+        }
+      ],
+      "uuid": "8b3b292d-e839-4a21-a6a3-dd3f45773752"
+    },
+    {
+      "start_time": 346,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cause you were the only one I was never scared to tell I hurt"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "993fd095-50fc-4cfc-ac9c-aea8ddf21344"
+    },
+    {
+      "start_time": 354,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I found photographs of our school, on the day we met"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "c8070713-f8b1-4c37-9d18-b0fdab892c53"
+    },
+    {
+      "start_time": 361,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought that you were so beautiful, it was love, I guess"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Enamored"
+        }
+      ],
+      "uuid": "049d770e-c413-44d2-9159-47e37972f914"
+    },
+    {
+      "start_time": 368,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden sings in front of all the church benches"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "eadee4a6-a145-4044-84ea-77d691930735"
+    },
+    {
+      "start_time": 369,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you might never come back home, and I may never sleep at night"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Defeated"
+        }
+      ],
+      "uuid": "81f6d564-6d2d-434e-84cf-1661c1c5cd9c"
+    },
+    {
+      "start_time": 376,
+      "end_time": 383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But God, I just hope you're doing fine out there, I just pray that you're alright"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "563824e4-1178-4dc3-8ee2-5f6f853814b5"
+    },
+    {
+      "start_time": 385,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I feel so alone, and I feel so alone out here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Loneliness"
+        }
+      ],
+      "uuid": "1d307095-b1b6-485b-b561-ff6abd8f8c5b"
+    },
+    {
+      "start_time": 386,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden sings in front of the Scales of Justice "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "5d19231f-722f-4281-8fb9-894e2fc5a1ae"
+    },
+    {
+      "start_time": 399,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I feel so alone, I feel so alone out here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Depression"
+        }
+      ],
+      "uuid": "3666b609-bfaf-4e5c-a81e-9a496070ed68"
+    },
+    {
+      "start_time": 414,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I feel so alone, I feel so alone out here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "5a5a1c6d-4c3b-4908-9446-76dfe7a5b96c"
+    },
+    {
+      "start_time": 425,
+      "end_time": 430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I feel so alone, I feel so alone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "3ba99aeb-b132-42a4-bfca-ed7b26e1d2f2"
+    },
+    {
+      "start_time": 431,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm so alone out here without you, baby"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        },
+        {
+          "category": "Tone",
+          "tag": "Dependency"
+        }
+      ],
+      "uuid": "e78fee11-5203-4d35-a5a0-a5bc08411df2"
+    },
+    {
+      "start_time": 438,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar solo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Category",
+          "tag": "Instrumental"
+        }
+      ],
+      "uuid": "297f669e-7bfa-4124-93a7-a92928482cd3"
+    },
+    {
+      "start_time": 444,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitarist playing in red lighting "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "2eda6440-8f92-4395-b8ff-a5cee905d49c"
+    },
+    {
+      "start_time": 460,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panning of Hayden in the middle to the church windows"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "1a67db05-bc78-473f-8cc7-4f120d41f399"
+    },
+    {
+      "start_time": 466,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitarist playing in red lighting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "287ee5ef-b389-4bf3-8c89-791bfa5b4b4d"
+    },
+    {
+      "start_time": 473,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden walks down the stairs of the church"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "b5a0e3b9-065c-4df3-8b87-465c36d63691"
+    },
+    {
+      "start_time": 478,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitarist playing in red lighting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "3e6613f9-de2a-48b3-818e-b4a42c7c0fd5"
+    },
+    {
+      "start_time": 481,
+      "end_time": 487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden walks to the doors of the church"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "c473777a-d6a1-40af-89a5-9b51297c3592"
+    },
+    {
+      "start_time": 488,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitarist playing in red lighting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "6e83d298-10fd-4956-96b3-7a341ddb4199"
+    },
+    {
+      "start_time": 503,
+      "end_time": 513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slow panning of the Scales of Justice and cross"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "4fded9b3-9db6-4fc9-92f5-eafce8394163"
+    },
+    {
+      "start_time": 514,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Glitches to blue screen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "14e2a694-9c9f-40b5-a14c-9533da95387a"
+    }
+  ],
   "set": "Default",
   "event_id": "9829cb28-e522-4f47-aefa-6074f79b135a",
   "source_id": "1b5dfd5f-ee82-44be-950a-bd9fb317a2d7"
