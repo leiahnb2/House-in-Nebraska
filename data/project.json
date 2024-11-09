@@ -8,7 +8,7 @@
   "project": {
     "github_org": "leiahnb2",
     "is_private": false,
-    "title": "House In Nebraska Live Performance - Ethel Cain",
+    "title": "House In Nebraska (Live) - Ethel Cain",
     "description": "Live performance of House in Nebraska by Ethel Cain.",
     "language": "en",
     "slug": "House-in-Nebraska",
@@ -124,6 +124,8 @@
       ]
     },
     "created_at": "2024-11-09T00:26:49.467Z",
-    "updated_at": "2024-11-09T05:08:57.324Z"
-  }
+    "updated_at": "2024-11-09T05:26:46.539Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
