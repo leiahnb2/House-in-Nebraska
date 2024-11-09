@@ -1,31 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 60,
-      "end_time": 68,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Labored breaths and bed sores, sing it to me all day long"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
-        },
-        {
-          "category": "Singer",
-          "tag": "Hayden Silas Anhedönia"
-        }
-      ],
-      "uuid": "22f7f3f9-a127-4b6f-84bb-9d651eca5d85"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "9829cb28-e522-4f47-aefa-6074f79b135a",
   "source_id": "1b5dfd5f-ee82-44be-950a-bd9fb317a2d7"
