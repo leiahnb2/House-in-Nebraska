@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "8d319762-b063-4504-87e1-9c3b6de73405": {
+      "label": "House In Nebraska Live Performance",
+      "is_offline": false,
+      "file_url": "https://drive.google.com/file/d/1U353xFr0ILHUO3JlmUiVjl3rYXMksn8k/view?usp=drive_link",
+      "duration": 762
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "House in Nebraska Performance",
+  "created_at": "2024-11-09T00:29:29.615Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2024-11-09T00:29:29.615Z",
+  "updated_by": "leiahnb2"
+}
