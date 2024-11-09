@@ -49,6 +49,56 @@
         }
       ],
       "uuid": "87dce8f6-8061-4020-8db1-95b8f84e29de"
+    },
+    {
+      "start_time": 60,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hayden Silas Anhedönia stands in the middle of a church"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Ethel Cain"
+        }
+      ],
+      "uuid": "0ef4af34-808b-4882-9d82-357a51e50987"
+    },
+    {
+      "start_time": 60,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Labored breaths and bed sores, sing it to me all day long"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Singer",
+          "tag": "Hayden Silas Anhedönia"
+        }
+      ],
+      "uuid": "22f7f3f9-a127-4b6f-84bb-9d651eca5d85"
     }
   ],
   "set": "Default",
