@@ -2,31 +2,6 @@
   "annotations": [
     {
       "start_time": 60,
-      "end_time": 63,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Labored breaths and bed sores"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
-        },
-        {
-          "category": "Singer",
-          "tag": "Hayden Silas Anhedönia"
-        }
-      ],
-      "uuid": "87dce8f6-8061-4020-8db1-95b8f84e29de"
-    },
-    {
-      "start_time": 60,
       "end_time": 68,
       "annotation": [
         {
