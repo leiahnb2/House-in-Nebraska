@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "9829cb28-e522-4f47-aefa-6074f79b135a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 60,
+      "end": 180,
+      "file": "1b5dfd5f-ee82-44be-950a-bd9fb317a2d7",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Video Clip Sample",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "video-clip-sample",
+  "created_at": "2024-11-16T17:16:34.665Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2024-11-16T17:16:34.665Z",
+  "updated_by": "leiahnb2"
+}
