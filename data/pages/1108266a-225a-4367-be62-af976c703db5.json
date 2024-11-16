@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media"
+      ],
+      "event1": {
+        "uuid": "9829cb28-e522-4f47-aefa-6074f79b135a",
+        "start": 60,
+        "end": 120,
+        "file": "1b5dfd5f-ee82-44be-950a-bd9fb317a2d7"
+      },
+      "event2": {
+        "uuid": "9829cb28-e522-4f47-aefa-6074f79b135a",
+        "start": 180,
+        "end": 240,
+        "file": "1b5dfd5f-ee82-44be-950a-bd9fb317a2d7"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "3:00-5:00",
+  "parent": "390f4cab-5bbd-41b1-b544-fc6f497db1a9",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "300-500",
+  "created_at": "2024-11-16T17:42:35.423Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2024-11-16T17:42:35.423Z",
+  "updated_by": "leiahnb2"
+}
